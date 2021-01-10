@@ -1,0 +1,56 @@
+{
+    "products": [{
+        "id": 1,
+        "title": "Rasteira tira dedo",
+        "cod": "RT 0568 | 03.07.0653",
+        "oldPrice": 69.99,
+        "price": 55.2,
+        "colors": [{
+                "name": "Fucsia",
+                "hex": "#a9095e"
+            },
+            {
+                "name": "Blue-dark",
+                "hex": "#2a5a75"
+            },
+            {
+                "name": "Brow",
+                "hex": "#a14830"
+            },
+            {
+                "name": "Black",
+                "hex": "#000000"
+            }
+        ],
+        "sizes": [
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+        ],
+        "images": [{
+                "name": "Product image",
+                "url": "https://ibb.co/hRfpDvk"
+            },
+            {
+                "name": "Product image",
+                "url": "https://ibb.co/hRfpDvk"
+            },
+            {
+                "name": "Product image",
+                "url": "https://ibb.co/hRfpDvk"
+            },
+            {
+                "name": "Product image",
+                "url": "https://ibb.co/hRfpDvk"
+            }
+        ],
+        "desc": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    }]
+}

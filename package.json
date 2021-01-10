@@ -1,0 +1,24 @@
+{
+    "name": "restapienglishforkids",
+    "version": "1.0.0",
+    "description": "rest api english for kids",
+    "main": "server.js",
+    "scripts": {
+        "start": "node ./server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CristianoBV/api_rest_original.io.git"
+    },
+    "keywords": [],
+    "author": "Cristiano Borges",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CristianoBV/api_rest_original.io.git"
+    },
+    "homepage": "https://github.com/CristianoBV",
+    "dependencies": {
+        "json-server": "^0.16.3"
+    }
+}
